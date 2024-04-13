@@ -1,4 +1,4 @@
-package App12;
+package app12;
 
 public abstract class Animal {
 	protected float peso;

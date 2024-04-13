@@ -1,4 +1,4 @@
-package App12;
+package app12;
 
 public class Mamifero extends Animal {
 	protected String corPelo;
